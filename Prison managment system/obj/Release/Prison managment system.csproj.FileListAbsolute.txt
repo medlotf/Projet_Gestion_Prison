@@ -1,0 +1,24 @@
+D:\c# proj\Prison managment system\Prison managment system\bin\Release\Prison managment system.exe.config
+D:\c# proj\Prison managment system\Prison managment system\bin\Release\Prison managment system.exe
+D:\c# proj\Prison managment system\Prison managment system\bin\Release\Prison managment system.pdb
+D:\c# proj\Prison managment system\Prison managment system\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\c# proj\Prison managment system\Prison managment system\bin\Release\MetroFramework.dll
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison managment system.csprojResolveAssemblyReference.cache
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.LogInForm.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.Properties.Resources.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison managment system.csproj.GenerateResource.Cache
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison managment system.csproj.CoreCompileInputs.cache
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison managment system.exe
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison managment system.pdb
+D:\c# proj\Prison managment system\Prison managment system\bin\Release\MaterialSkin.dll
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.Main_page_Admin.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.Main_Page.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.home_admin.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.home.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.home2.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.operation_admin.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.operation.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.Profile.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.profile2.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.Search.resources
+D:\c# proj\Prison managment system\Prison managment system\obj\Release\Prison_managment_system.userControl.test.resources
